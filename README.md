@@ -2,7 +2,7 @@
 Analysis of financial records 
 
 In this task, create a Python script for analyzing the financial records of your company. You will give a set of financial
-data called budget_data.csv. In your Python script analyzes the records to calculate each of the following:
+data called financial_records.csv. In your Python script analyzes the records to calculate each of the following:
 
 1. The total number of months included in the dataset
 2. The net total amount of "Profit/Losses" over the entire period
